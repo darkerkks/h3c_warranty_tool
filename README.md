@@ -9,6 +9,8 @@
 ---
 
 ## 一、图形化操作平台（推荐）
+<img width="2560" height="1270" alt="image" src="https://github.com/user-attachments/assets/01da628f-f2d7-4a68-afe8-d87b40fab5ae" />
+
 
 ### 启动
 
